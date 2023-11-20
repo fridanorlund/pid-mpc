@@ -3,4 +3,4 @@ Example code for examples included in article "Seamless PID to MPC transition us
 
 Figure 5 is generated from "linear-tank-example-measurable-disturbance" 
 
-Figures 6, 7, and 8 aregenerated from "linear-tank-example"
+Figures 6, 7, and 8 are generated from "linear-tank-example"
