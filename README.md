@@ -1,5 +1,5 @@
 # pid-mpc
-Example code for examples included in article "Seamless PID to MPC transition using a feed-forward hybrid design "
+Example code for examples included in article "Seamless PID--MPC hybrid control "
 
 Figure 5 is generated from "linear-tank-example-measurable-disturbance" 
 
