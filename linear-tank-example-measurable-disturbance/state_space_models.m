@@ -4,7 +4,7 @@
 K = 0.9;
 Ti = 87;
 Td = 0;
-b = 1;
+b = 0.7;
 % filter parameters
 w = (2*pi/Ti)*100;
 z = 0.7071;
